@@ -1,0 +1,30 @@
+PATH
+  remote: .
+  specs:
+    jekyll-smart-material (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    diff-lcs (1.1.3)
+    rake (10.5.0)
+    rspec (2.9.0)
+      rspec-core (~> 2.9.0)
+      rspec-expectations (~> 2.9.0)
+      rspec-mocks (~> 2.9.0)
+    rspec-core (2.9.0)
+    rspec-expectations (2.9.1)
+      diff-lcs (~> 1.1.3)
+    rspec-mocks (2.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.12)
+  jekyll-smart-material!
+  rake (~> 10.0)
+  rspec (~> 2.9.0)
+
+BUNDLED WITH
+   1.12.3
