@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.summary       = "gem for excellent jekyll-smart-material theme"
   spec.description   = "gem for excellent jekyll-smart-material theme"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/sardeenz/jekyll-smart-material-gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
